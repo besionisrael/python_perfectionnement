@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """ Connecting cell phones to a charger """
 
 import random

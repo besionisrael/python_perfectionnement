@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """ Two shoppers adding items to a shared notepad """
 
 import threading

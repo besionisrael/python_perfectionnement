@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """ Threads that waste CPU cycles """
 #Import
 

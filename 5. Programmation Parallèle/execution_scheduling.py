@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """ Two threads resolving exercises """
 
 import threading
